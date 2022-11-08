@@ -13,3 +13,4 @@ Another commit in branch B with VScode
 I unintentionally merged "branch B" with "main" in VScode.
 I cloned the repo again and made "branch C" in VScode.
 Now I will try to make a pull-Request in VScode to merge "main" an "branch C"
+I made this line via github.com-Website to test the pull-function in VScode.
